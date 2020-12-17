@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Cabinet-Tech-Solution/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/Cabinet-Tech-Solution/static/js/main.77367c64.chunk.js",
+    "main.js.map": "/Cabinet-Tech-Solution/static/js/main.77367c64.chunk.js.map",
+    "runtime-main.js": "/Cabinet-Tech-Solution/static/js/runtime-main.63dd13b4.js",
+    "runtime-main.js.map": "/Cabinet-Tech-Solution/static/js/runtime-main.63dd13b4.js.map",
+    "static/js/2.a29200f5.chunk.js": "/Cabinet-Tech-Solution/static/js/2.a29200f5.chunk.js",
+    "static/js/2.a29200f5.chunk.js.map": "/Cabinet-Tech-Solution/static/js/2.a29200f5.chunk.js.map",
+    "static/js/3.c24dcfca.chunk.js": "/Cabinet-Tech-Solution/static/js/3.c24dcfca.chunk.js",
+    "static/js/3.c24dcfca.chunk.js.map": "/Cabinet-Tech-Solution/static/js/3.c24dcfca.chunk.js.map",
+    "index.html": "/Cabinet-Tech-Solution/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/Cabinet-Tech-Solution/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.a29200f5.chunk.js.LICENSE.txt": "/Cabinet-Tech-Solution/static/js/2.a29200f5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Cabinet-Tech-Solution/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63dd13b4.js",
+    "static/js/2.a29200f5.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.77367c64.chunk.js"
+  ]
+}
