@@ -5,6 +5,8 @@ import Navbar from './Navbar';
 import Header from './Header';
 import About from './About';
 import Services from './Services';
+import Projects from './Projects';
+import Team from './Team';
 
 function App() {
   return (
@@ -13,6 +15,8 @@ function App() {
       <Header />
       <About />
       <Services />
+      <Projects />
+      <Team />
      
     </div>
   );
