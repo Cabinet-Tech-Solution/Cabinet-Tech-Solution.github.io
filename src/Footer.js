@@ -3,7 +3,7 @@ import React from 'react'
 export default function Footer() {
     return (
         <footr>
-        <div class="footer" style={{backgroundColor: '#000000'}}>
+        <div class="footer bg-dark">
            <div class="container">
               <div class="row">
                  <div class="col-lg-2 col-md-6 col-sm-12 width">
@@ -19,19 +19,19 @@ export default function Footer() {
                     </div>
                  </div>
                  <div class="col-lg-2 col-md-6 col-sm-12 width">
-                    <div class="address">
+                    <div class="address card bg-dark" style={{borderStyle: 'none'}}>
                        <h3>Useful Linkes</h3>
-                       <i><a href="#service" class="text-light"> Services</a></i>
-                       <i><a href="#about" class="text-light">About</a></i>
-                       <i> <a href="#download" class="text-light">Projects</a></i>
-                       <i>  <a href="#testimonial" class="text-light">Contact</a> </i>
+                       <i><a href="#service" class="text-light list-group-item bg-secondary" style={{borderStyle: 'none'}}> Services</a></i>
+                       <i><a href="#about" class="text-light list-group-item bg-dark" style={{borderStyle: 'none'}}>About</a></i>
+                       <i> <a href="#download" class="text-light list-group-item bg-dark" style={{borderStyle: 'none'}}>Projects</a></i>
+                       <i>  <a href="#testimonial" class="text-light list-group-item bg-dark" style={{borderStyle: 'none'}}>Contact</a> </i>
                      
                     </div>
                  </div>
                  <div class="col-lg-2 col-md-6 col-sm-12 width">
-                    <div class="address">
+                    <div class="address ">
                        <h3>Social Media </h3>
-                       <ul class="contant_icon">
+                       <ul class="contant_icon card bg-dark" style={{borderStyle: 'none'}}>
                           <li><img src="icon/fb.png" alt="icon"/></li>
                           <li><img src="icon/tw.png" alt="icon"/></li>
                           <li><img src="icon/lin (2).png" alt="icon"/></li>
