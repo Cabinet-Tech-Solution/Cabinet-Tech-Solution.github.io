@@ -1,10 +1,11 @@
 import { Fragment } from "react"
 import React  from 'react';
+import Contact from './Contact';
 
 export default function Team() {
     return(
         <Fragment>
-          <div id="testimonial" class="testimonial" style="background-color: rgb(171, 178, 238);">
+          <div id="testimonial" class="testimonial" style={{backgroundColor:'rgb(171, 178, 238)'}}>
          <div class="container">
             <div class="row">
                <div class="col-md-12">
@@ -62,13 +63,7 @@ export default function Team() {
                   </div>
                </div>
                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12" >
-                  <div class="contact">
-                     <h3></h3>
-                     
-                     <form>
-                        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfQVa5Tr5RxyQmykILvEwLVyq7w1suVKkUnTh2l461nql7Uog/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0" height="450" class="col-12 mr-3">Loading…</iframe>
-                     </form>
-                  </div>
+                  <Contact />
                </div>
             </div>
          </div>
